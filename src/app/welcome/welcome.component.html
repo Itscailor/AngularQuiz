@@ -1,0 +1,16 @@
+<div class="container bg-light py-5">
+    <h1 class="display-5 fw-bold">Movie Quiz App</h1>
+    <p class="col-md-8 fs-4">Questo quiz contiene 9 domande.</p>
+    <h4>Ecco le regole:</h4>
+    <ol>
+        <li>Le risposte corrette valgono 10 punti</li>
+        <li>Le risposte sbagliate tolgono 10 punti</li>
+        <li>Ogni domanda ha un limite di 60 secondi per rispondere</li>
+        <li>Ricaricare la pagina interromperà il quiz</li>
+    </ol>
+    <div class="name col-md-4 my-3">
+        <label for="">Inserisci il tuo nome:</label>
+        <input #name type="text" class="form-control">
+    </div>
+    <button class="btn btn-secondary btn-lg" routerLink="/question" (click)="startQuiz()">Inizia il quiz</button>
+</div>

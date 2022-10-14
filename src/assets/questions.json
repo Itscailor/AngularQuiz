@@ -1,0 +1,165 @@
+{
+    "questions": [{
+            "questionText": "Di che colore è la pillola scelta da Neo in Matrix?",
+            "options": [{
+                    "text": "Rossa",
+                    "correct": true
+                },
+                {
+                    "text": "Blu"
+                },
+                {
+                    "text": "Gialla"
+                },
+                {
+                    "text": "Viola"
+                }
+            ],
+            "explanation": "Neo sceglie la pillola rossa, vedendo quanto è profonda la tana del Bianconiglio!"
+        },
+        {
+            "questionText": "Quali sono i tre elementi delle Cronache di Narnia citati nel titolo del film?",
+            "options": [{
+                    "text": "Il leone, il cacciatore e l'armadio"
+                },
+                {
+                    "text": "Il Leone, l'armadio e il mago"
+                },
+                {
+                    "text": "Il Leone, l'uomo di latta e l'armadio"
+                },
+                {
+                    "text": "Il Leone, la strega e l'armadio",
+                    "correct": true
+                }
+            ],
+            "explanation": "Il leone, la strega e l'armadio è un romanzo di letteratura giovanile di genere fantasy, il primo della saga delle cronache di Narnia. è anche il nome completo del film."
+        },
+        {
+            "questionText": "Quali sono in ordine, i titoli dei tre episodi de Il Signore degli anelli?",
+            "options": [{
+                    "text": "La compagnia dell'agnello, le due torri, il ritorno del re."
+                },
+                {
+                    "text": "La compagnia dell'anello, le due torri, il ritorno del re.",
+                    "correct": true
+                },
+                {
+                    "text": "Le due torri, la compagnia dell'anello, il ritorno del re."
+                },
+                {
+                    "text": "La compagnia dell'anello, il ritorno del re, le due torri."
+                }
+            ],
+            "explanation": "La compagnia dell'anello(1954), le due torri(Q4 1954), il ritorno del re(1955)"
+        },
+        {
+            "questionText": "Nel film Mamma ho perso l’aereo, la famiglia è in partenza per le vacanze di Natale. Dove sono diretti?",
+            "options": [{
+                    "text": "A New York"
+                },
+                {
+                    "text": "A Parigi",
+                    "correct": true
+                },
+                {
+                    "text": "A Londra"
+                },
+                {
+                    "text": "In Germania"
+                }
+            ],
+            "explanation": "Nel film Mamma ho perso l'aereo, la famiglia è in partenza per Parigi."
+        },
+        {
+            "questionText": "Nel primo film della serie, quanti anni ha Harry Potter quando scopre di avere dei poteri perché figlio di due maghi?",
+            "options": [{
+                    "text": "11 Anni",
+                    "correct": true
+                },
+                {
+                    "text": "12 Anni"
+                },
+                {
+                    "text": "13 Anni"
+                },
+                {
+                    "text": "14 Anni"
+                }
+            ],
+            "explanation": "Harry Potter scopre di avere dei poteri a 11 Anni."
+        },
+        {
+            "questionText": "Nel film Pirati dei Caraibi - La maledizione del forziere fantasma, quando Elizabeth guarda la magica bussola, cosa o chi punta l’ago?",
+            "options": [{
+                    "text": "Davy Jones"
+                },
+                {
+                    "text": "Le isole Cayman"
+                },
+                {
+                    "text": "L'isola che non c'è"
+                },
+                {
+                    "text": "Jack Sparrow",
+                    "correct": true
+                }
+            ],
+            "explanation": "Nel film Pirati dei Caraibi - La maledizione del forziere fantasma, la bussola punta verso Jack Sparrow."
+        },
+        {
+            "questionText": "Quale celebre comico italiano ha diretto e interpretato una versione cinematografica di Pinocchio?",
+            "options": [{
+                    "text": "Federico Fellini"
+                },
+                {
+                    "text": "Roberto Benigni",
+                    "correct": true
+                },
+                {
+                    "text": "Paolo Sorrentino"
+                },
+                {
+                    "text": "Matteo Garrone"
+                }
+            ],
+            "explanation": "Pinocchio(2002) è stato diretto da Roberto Benigni, che ha anche interpretato Pinocchio."
+        },
+        {
+            "questionText": "Come si chiamano i due attori protagonisti della serie Trinità?",
+            "options": [{
+                    "text": "Terence Hill e Bud Spancer",
+                    "correct": true
+                },
+                {
+                    "text": "Stanlio e Ollio"
+                },
+                {
+                    "text": "Scemo e più scemo"
+                },
+                {
+                    "text": "Staglio e Olio"
+                }
+            ],
+            "explanation": "I protagonisti della serie Trinità sono Tarence Hill e Bud Spancer"
+        },
+        {
+            "questionText": "Chi è l'attore protagonista di Blues Brothers?",
+            "options": [{
+                    "text": "John Belushi",
+                    "correct": true
+                },
+                {
+                    "text": "Drake Bell"
+                },
+                {
+                    "text": "Josh Peck"
+                },
+                {
+                    "text": "Jerry Trainor"
+                }
+            ],
+            "explanation": "John Belushi è l'attore protagonista di Blues Brothers-"
+        }
+    ]
+}
